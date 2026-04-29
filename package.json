@@ -26,7 +26,7 @@
   "keywords": [],
   "dependencies": {
     "@angular/animations": "~21.2.10",
-    "@angular/common": ""~21.2.10",
+    "@angular/common": "~21.2.10",
     "@angular/compiler": "~21.2.10",
     "@angular/compiler-cli": "~21.2.10",
     "@angular/core": "~21.2.10",
